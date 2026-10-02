@@ -1,0 +1,92 @@
+[
+  {
+    "id": "FAQ-001",
+    "question": "How do I create a StudentHub account?",
+    "answer": "Open the Register page, complete the required details, and accept the terms before submitting the form.",
+    "category": "Account"
+  },
+  {
+    "id": "FAQ-002",
+    "question": "How do I sign in to my account?",
+    "answer": "Use the Login page and enter the email address and password connected to your StudentHub account.",
+    "category": "Account"
+  },
+  {
+    "id": "FAQ-003",
+    "question": "Can I update my profile details?",
+    "answer": "Yes. Open Profile after signing in and update the available personal and academic information.",
+    "category": "Account"
+  },
+  {
+    "id": "FAQ-004",
+    "question": "Where can I find upcoming campus events?",
+    "answer": "The Events page lists current activities and allows you to search, filter, and sort them.",
+    "category": "Events"
+  },
+  {
+    "id": "FAQ-005",
+    "question": "How do I enrol in an event?",
+    "answer": "Select Enroll now on the event card. You will be asked to log in before continuing.",
+    "category": "Events"
+  },
+  {
+    "id": "FAQ-006",
+    "question": "Can I search events by name?",
+    "answer": "Yes. Enter part of an event title in the search box on the Events page.",
+    "category": "Events"
+  },
+  {
+    "id": "FAQ-007",
+    "question": "Who can access the admin dashboard?",
+    "answer": "Only authorised users with an administrator role can access administrative tools.",
+    "category": "Administration"
+  },
+  {
+    "id": "FAQ-008",
+    "question": "What information appears in student records?",
+    "answer": "The student view contains a student ID, name, email address, course, academic year, and account status.",
+    "category": "Administration"
+  },
+  {
+    "id": "FAQ-009",
+    "question": "How can I contact StudentHub support?",
+    "answer": "Visit the Contact page and send a message using the support form.",
+    "category": "Support"
+  },
+  {
+    "id": "FAQ-010",
+    "question": "Where can I share feedback?",
+    "answer": "Use the Feedback page to share your experience and suggestions with the StudentHub team.",
+    "category": "Support"
+  },
+  {
+    "id": "FAQ-011",
+    "question": "Why is the event list loading?",
+    "answer": "StudentHub retrieves the latest event data from an external JSON file before displaying it.",
+    "category": "Technical"
+  },
+  {
+    "id": "FAQ-012",
+    "question": "What should I do if data cannot be loaded?",
+    "answer": "Refresh the page while connected to the local development server. The page will show an error message if the request fails.",
+    "category": "Technical"
+  },
+  {
+    "id": "FAQ-013",
+    "question": "Can I filter frequently asked questions?",
+    "answer": "Yes. Use the topic filter above the FAQ list to focus on one category.",
+    "category": "Technical"
+  },
+  {
+    "id": "FAQ-014",
+    "question": "How are search results arranged?",
+    "answer": "Choose a sorting option to arrange results alphabetically by question or by topic.",
+    "category": "Technical"
+  },
+  {
+    "id": "FAQ-015",
+    "question": "Is StudentHub available on mobile devices?",
+    "answer": "Yes. The StudentHub pages use responsive layouts designed for smaller screens as well as desktop displays.",
+    "category": "General"
+  }
+]
