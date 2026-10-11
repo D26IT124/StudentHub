@@ -1,0 +1,107 @@
+[
+  {
+    "id": "EVT-001",
+    "title": "New Student Orientation",
+    "date": "2026-09-20",
+    "category": "Academic",
+    "description": "A campus introduction for newly enrolled students."
+  },
+  {
+    "id": "EVT-002",
+    "title": "Web Design Workshop",
+    "date": "2026-09-24",
+    "category": "Workshop",
+    "description": "Build a responsive webpage with StudentHub mentors."
+  },
+  {
+    "id": "EVT-003",
+    "title": "Campus Clean-up Drive",
+    "date": "2026-09-27",
+    "category": "Community",
+    "description": "Join student volunteers to care for shared campus spaces."
+  },
+  {
+    "id": "EVT-004",
+    "title": "Annual Tech Fest",
+    "date": "2026-10-05",
+    "category": "Technology",
+    "description": "A day of demos, competitions, and emerging technology talks."
+  },
+  {
+    "id": "EVT-005",
+    "title": "Career Readiness Seminar",
+    "date": "2026-10-08",
+    "category": "Career",
+    "description": "Learn practical ways to prepare for placements and interviews."
+  },
+  {
+    "id": "EVT-006",
+    "title": "Interdepartmental Sports Meet",
+    "date": "2026-10-15",
+    "category": "Sports",
+    "description": "Represent your department across track, field, and team games."
+  },
+  {
+    "id": "EVT-007",
+    "title": "Photography Walk",
+    "date": "2026-10-19",
+    "category": "Culture",
+    "description": "Explore visual storytelling with the campus photography club."
+  },
+  {
+    "id": "EVT-008",
+    "title": "Data Analytics Bootcamp",
+    "date": "2026-10-23",
+    "category": "Workshop",
+    "description": "An introductory hands-on session on analysing useful datasets."
+  },
+  {
+    "id": "EVT-009",
+    "title": "Alumni Career Talk",
+    "date": "2026-10-28",
+    "category": "Career",
+    "description": "Hear career journeys and advice from StudentHub alumni."
+  },
+  {
+    "id": "EVT-010",
+    "title": "Diwali Cultural Evening",
+    "date": "2026-11-02",
+    "category": "Culture",
+    "description": "Celebrate music, performances, and campus community traditions."
+  },
+  {
+    "id": "EVT-011",
+    "title": "Robotics Challenge",
+    "date": "2026-11-08",
+    "category": "Technology",
+    "description": "Form a team and solve a live robotics design challenge."
+  },
+  {
+    "id": "EVT-012",
+    "title": "Financial Literacy Session",
+    "date": "2026-11-12",
+    "category": "Academic",
+    "description": "Understand budgeting, saving, and financial choices for students."
+  },
+  {
+    "id": "EVT-013",
+    "title": "Blood Donation Camp",
+    "date": "2026-11-18",
+    "category": "Community",
+    "description": "Support a community health initiative organised on campus."
+  },
+  {
+    "id": "EVT-014",
+    "title": "Resume Review Clinic",
+    "date": "2026-11-23",
+    "category": "Career",
+    "description": "Receive focused feedback on your resume from mentors."
+  },
+  {
+    "id": "EVT-015",
+    "title": "Winter Coding Sprint",
+    "date": "2026-12-01",
+    "category": "Technology",
+    "description": "Collaborate on small projects during a focused coding session."
+  }
+]

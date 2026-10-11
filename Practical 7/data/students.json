@@ -1,0 +1,122 @@
+[
+  {
+    "id": "STU-001",
+    "name": "Aarav Sharma",
+    "email": "aarav.sharma@studenthub.edu",
+    "course": "B.Tech",
+    "year": 1,
+    "status": "Active"
+  },
+  {
+    "id": "STU-002",
+    "name": "Diya Patel",
+    "email": "diya.patel@studenthub.edu",
+    "course": "BCA",
+    "year": 2,
+    "status": "Active"
+  },
+  {
+    "id": "STU-003",
+    "name": "Kabir Singh",
+    "email": "kabir.singh@studenthub.edu",
+    "course": "BBA",
+    "year": 3,
+    "status": "Active"
+  },
+  {
+    "id": "STU-004",
+    "name": "Ananya Gupta",
+    "email": "ananya.gupta@studenthub.edu",
+    "course": "B.Tech",
+    "year": 4,
+    "status": "Active"
+  },
+  {
+    "id": "STU-005",
+    "name": "Vivaan Mehta",
+    "email": "vivaan.mehta@studenthub.edu",
+    "course": "BCA",
+    "year": 1,
+    "status": "Active"
+  },
+  {
+    "id": "STU-006",
+    "name": "Isha Verma",
+    "email": "isha.verma@studenthub.edu",
+    "course": "B.Com",
+    "year": 2,
+    "status": "Active"
+  },
+  {
+    "id": "STU-007",
+    "name": "Arjun Nair",
+    "email": "arjun.nair@studenthub.edu",
+    "course": "B.Tech",
+    "year": 3,
+    "status": "Active"
+  },
+  {
+    "id": "STU-008",
+    "name": "Meera Joshi",
+    "email": "meera.joshi@studenthub.edu",
+    "course": "BBA",
+    "year": 1,
+    "status": "Active"
+  },
+  {
+    "id": "STU-009",
+    "name": "Rohan Kapoor",
+    "email": "rohan.kapoor@studenthub.edu",
+    "course": "B.Com",
+    "year": 3,
+    "status": "Active"
+  },
+  {
+    "id": "STU-010",
+    "name": "Sanya Iyer",
+    "email": "sanya.iyer@studenthub.edu",
+    "course": "BCA",
+    "year": 4,
+    "status": "Active"
+  },
+  {
+    "id": "STU-011",
+    "name": "Aditya Rao",
+    "email": "aditya.rao@studenthub.edu",
+    "course": "B.Tech",
+    "year": 2,
+    "status": "Active"
+  },
+  {
+    "id": "STU-012",
+    "name": "Kavya Das",
+    "email": "kavya.das@studenthub.edu",
+    "course": "BBA",
+    "year": 2,
+    "status": "Active"
+  },
+  {
+    "id": "STU-013",
+    "name": "Reyansh Malhotra",
+    "email": "reyansh.malhotra@studenthub.edu",
+    "course": "B.Com",
+    "year": 4,
+    "status": "Active"
+  },
+  {
+    "id": "STU-014",
+    "name": "Nisha Kulkarni",
+    "email": "nisha.kulkarni@studenthub.edu",
+    "course": "BCA",
+    "year": 3,
+    "status": "Active"
+  },
+  {
+    "id": "STU-015",
+    "name": "Ibrahim Khan",
+    "email": "ibrahim.khan@studenthub.edu",
+    "course": "B.Tech",
+    "year": 1,
+    "status": "Active"
+  }
+]
