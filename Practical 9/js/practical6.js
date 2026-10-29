@@ -7,7 +7,7 @@
 
   const datasetConfigs = {
     events: {
-      file: 'events.json',
+      file: 'data/events.json',
       label: 'event',
       pluralLabel: 'events',
       searchFields: ['title'],
@@ -21,7 +21,7 @@
       render: renderEvent
     },
     students: {
-      file: 'students.json',
+      file: 'data/students.json',
       label: 'student',
       pluralLabel: 'students',
       searchFields: ['name', 'email'],
@@ -35,7 +35,7 @@
       render: renderStudent
     },
     faqs: {
-      file: 'faqs.json',
+      file: 'data/faqs.json',
       label: 'FAQ',
       pluralLabel: 'FAQs',
       searchFields: ['question', 'answer'],

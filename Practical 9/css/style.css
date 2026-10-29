@@ -1298,6 +1298,38 @@ body.dark-theme .category-badge {
   background:#ffebe9;
 }
 
+/* View Registrations button styling */
+.validation-form .form-status .view-registrations-btn {
+  display: inline-block;
+  padding: 0.4rem 0.8rem;
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: #1769e0;
+  background: #e8f0fe;
+  border: 1px solid #1769e0;
+  border-radius: 0.4rem;
+  text-decoration: none;
+  transition: all 0.2s ease;
+  margin-top: 0.5rem;
+}
+
+.validation-form .form-status .view-registrations-btn:hover {
+  color: #fff;
+  background: #1769e0;
+  text-decoration: none;
+}
+
+body.dark-theme .validation-form .form-status .view-registrations-btn {
+  color: #7fa8db;
+  background: #1a3a5c;
+  border-color: #7fa8db;
+}
+
+body.dark-theme .validation-form .form-status .view-registrations-btn:hover {
+  color: #fff;
+  background: #7fa8db;
+}
+
 body.dark-theme .validation-form .field-error {
   color:#ffb4ab;
 }
